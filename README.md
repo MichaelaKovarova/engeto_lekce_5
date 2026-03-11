@@ -2,5 +2,5 @@
 Testovaci repozitář v rámci lekce Engeto- Lekce 5
 
 Co budeme probirat
-    zaklady GIT
-    vytvoreni repozitare
+   - zaklady GIT
+    -vytvoreni repozitare
